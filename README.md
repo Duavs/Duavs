@@ -7,7 +7,7 @@ I'm JP, a passionate **Junior .NET Developer** 🚀
 - 🌱 Currently learning **Angular, JavaScript, and Docker**  
 - 🛠️ Exploring **clean code, performance optimization, and best practices**  
 - 🎯 Goal: Master **OOP principles and efficient backend development**  
-- 📫 Let's connect! **[Your Email / LinkedIn / Portfolio]**  
+- 📫 Let's connect!
 
 ## 🔧 Tech Stack  
 **Backend:** ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
@@ -18,6 +18,4 @@ I'm JP, a passionate **Junior .NET Developer** 🚀
 ## 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
 
----
 
-Let me know if you want to personalize it further! 🚀
