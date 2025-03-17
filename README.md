@@ -4,7 +4,7 @@ I'm JP, a passionate **Junior .NET Developer** 🚀
 
 ## 🔹 About Me  
 - 💻 Working with **ASP.NET MVC, C#, and SQL Server**  
-- 🌱 Currently learning **Angular, JavaScript, and Docker**  
+- 🌱 Currently learning **Angular and Docker**  
 - 🛠️ Exploring **clean code, performance optimization, and best practices**  
 - 🎯 Goal: Master **OOP principles and efficient backend development**  
 - 📫 Let's connect!
