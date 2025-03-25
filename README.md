@@ -1,4 +1,4 @@
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+# Hi developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=36BCF7&width=600&lines=I'm+JP%2C+a+Junior+.NET+Developer!;Passionate+about+clean+code+%26+optimization;Exploring+Angular+and+Docker;Open+to+collaboration+%26+learning!" alt="Typing SVG" />
 
