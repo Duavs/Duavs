@@ -31,12 +31,3 @@
 
 ---
 
-## 📈 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Duavs&show_icons=true&theme=dark" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Duavs&theme=dark&hide_border=true" height="180px"/>
-</div>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=Duavs&color=blue&style=flat-square)
