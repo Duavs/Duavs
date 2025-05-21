@@ -10,7 +10,8 @@
 - 📫 Let's connect!
 
 ---
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabilramy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 ## 🔧 Tech Stack  
 **Backend:**  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
