@@ -9,7 +9,7 @@
 - 🎯 Goal: Master **OOP principles and efficient backend development**  
 - 📫 Let's connect!
 
----[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duavs&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duavs&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ## 🔧 Tech Stack  
 **Backend:**  
